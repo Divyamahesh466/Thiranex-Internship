@@ -1,1 +1,29 @@
+Title
 
+Customer Segmentation using Machine Learning
+
+Description
+This project uses the Mall Customers dataset to perform customer segmentation using the K-Means Clustering algorithm.
+
+Objectives:
+- Load and preprocess the dataset
+- Perform Exploratory Data Analysis (EDA)
+- Select important features
+- Apply K-Means Clustering
+- Visualize customer groups
+- Interpret the clustering results
+
+Tools & Technologies:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+Dataset:
+Mall Customers Dataset
+
+Google Drive Notebook Link:
+https://drive.google.com/file/d/12CJMWTXegznEOdBc3DmWUB798BsezcnU/view?usp=drive_link
