@@ -1,1 +1,67 @@
+# Task 3: Predictive Analytics Using Historical Data
 
+## Project Overview
+This project focuses on building a predictive analytics model using historical advertising data. A Linear Regression algorithm is used to predict future sales based on advertising expenditure across different media channels.
+
+## Objective
+- Build a predictive model to forecast future sales.
+- Clean and preprocess historical data.
+- Train a Linear Regression model.
+- Evaluate model performance using regression metrics.
+- Visualize actual and predicted sales.
+
+## Dataset
+**Dataset Name:** Advertising Dataset
+
+**Features:**
+- TV Advertising Budget
+- Radio Advertising Budget
+- Newspaper Advertising Budget
+
+**Target Variable:**
+- Sales
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Machine Learning Algorithm
+- Linear Regression
+
+## Project Workflow
+1. Import required libraries.
+2. Load the dataset.
+3. Clean and preprocess the data.
+4. Perform Exploratory Data Analysis (EDA).
+5. Select features and target variable.
+6. Split the dataset into training and testing sets.
+7. Train the Linear Regression model.
+8. Predict sales using the trained model.
+9. Evaluate the model using MAE, MSE, and R² Score.
+10. Visualize actual vs predicted sales.
+
+## Model Evaluation
+The model performance is evaluated using:
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+
+## Expected Outcome
+- Understand predictive analytics using historical data.
+- Learn regression-based forecasting.
+- Analyze trends using historical data.
+- Build a machine learning model for future sales prediction.
+- Improve data preprocessing and visualization skills.
+
+## Project Files
+- Predictive_Analytics.ipynb
+- Advertising.csv
+- README.md
+
+## Google Drive Notebook Link
+https://drive.google.com/file/d/1JfEJsxgeW3NfZhBDwZN2WO0RBXz9Xfhk/view?usp=drive_link
