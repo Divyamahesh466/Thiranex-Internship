@@ -1,1 +1,90 @@
+# Task 4: Data Cleaning & Reporting Automation
+
+## Project Overview
+
+This project demonstrates how to automate data cleaning and reporting workflows using Python. The dataset is cleaned by handling missing values, removing duplicate records, correcting inconsistent data, and generating automated reports with visualizations. The goal is to improve data quality and reporting efficiency.
+
+## Objective
+
+* Automate the data cleaning process.
+* Handle missing values and duplicate records.
+* Correct inconsistent and invalid data.
+* Generate automated reports and visual summaries.
+* Improve reporting efficiency using Python.
+
+## Dataset
+
+**Dataset Name:** Employee Data / Sales Data (CSV)
+
+The dataset contains records with missing values, duplicate entries, and inconsistent formatting that require preprocessing before analysis.
+
+## Technologies Used
+
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* OpenPyXL (for Excel reporting)
+
+## Project Workflow
+
+1. Import required libraries.
+2. Load the dataset.
+3. Identify missing values.
+4. Fill or remove missing values.
+5. Detect and remove duplicate records.
+6. Standardize column names and text values.
+7. Convert data types where necessary.
+8. Generate summary statistics.
+9. Create visual reports using charts.
+10. Export the cleaned dataset and report.
+
+## Data Cleaning Tasks
+
+* Removed duplicate records
+* Handled missing values
+* Standardized text formatting
+* Corrected inconsistent values
+* Converted data types
+* Removed unnecessary columns
+
+## Automated Reports
+
+The project automatically generates:
+
+* Dataset summary
+* Missing value report
+* Duplicate record report
+* Descriptive statistics
+* Visual charts and graphs
+
+## Visualizations
+
+* Bar Chart
+* Histogram
+* Box Plot
+* Pie Chart
+* Correlation Heatmap
+
+## Expected Outcome
+
+* Understand data preprocessing techniques.
+* Learn workflow automation using Python.
+* Improve reporting efficiency.
+* Generate clean, analysis-ready datasets.
+* Create automated visual reports for business insights.
+
+## Project Files
+
+* Data_Cleaning_Automation.ipynb
+* Dataset.csv
+* Cleaned_Dataset.csv
+* README.md
+
+## Google Drive Notebook Link
+https://drive.google.com/file/d/1LigC0U2SlpD4kSsF-g4dyp-QZEf6tjKQ/view?usp=drive_link
+
+
 
